@@ -21,3 +21,4 @@ Clone the repository and open `index.html` in any web browser:
 ```bash
 git clone https://github.com/exefile04/exefile04.github.io.git
 cd exefile04.github.io
+start index.html
