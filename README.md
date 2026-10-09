@@ -2,7 +2,9 @@
 
 > A minimal, aesthetic link-in-bio & micro-landing page built with plain HTML.
 
-[![Live Website](https://img.shields.io/badge/Website-Visit_Site-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://exefile04.github.io)
+<a href="https://exefile04.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit_Site-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Website">
+</a>
 
 ## ✨ Features
 
