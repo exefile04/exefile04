@@ -1,16 +1,16 @@
-## Hi there 👋
+# exefile04.github.io
 
-<!--
-**exefile04/exefile04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A minimal, aesthetic link-in-bio & micro-landing page built with plain HTML.
+## ✨ Features
 
-Here are some ideas to get you started:
+- **Minimalist Card UI**: Sleek, glassmorphism-inspired dark design centered around links and projects.
+- **Embedded Audio Player**: Background music control with custom play/pause toggle.
+- **Responsive Layout**: Fast, zero-dependency, lightweight page optimized for all screen sizes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Local Development
+
+Clone the repository and open `index.html` in any web browser:
+
+```bash
+git clone [https://github.com/exefile04/exefile04.github.io.git](https://github.com/exefile04/exefile04.github.io.git)
+cd exefile04.github.io
